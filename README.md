@@ -15,7 +15,7 @@
 
 # Documentação
 
-Nossa ideia foi fazer uma animação onde o barril jogue para cima os macacos que foram feitos em uma atividade passada e quando todos os macacos forem jogados, irá aparecer duas canecas com as iniciais minha "Pedro" e do Romulo que vão ser brindadas como uma comemoração no final.
+Nossa ideia foi fazer uma animação onde o barril jogA para cima os macacos que foram feitos em uma atividade passada e quando todos os macacos forem jogados, irá aparecer duas canecas com as iniciais minha "Pedro" e do Romulo que vão ser brindadas como uma comemoração no final.
 
 # Código
 
